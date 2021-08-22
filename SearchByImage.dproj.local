@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/04/24 20:57:36.000.130,C:\Users\thush\Documents\Embarcadero\Studio\Projects\Unit1.dfm=G:\Working\UPWORK\Eli Mapstead\OCRReadClient\sfrmMain.dfm</Transaction>
+    <Transaction>2021/04/24 20:57:40.000.175,C:\Users\thush\Documents\Embarcadero\Studio\Projects\Project1.dproj=G:\Working\UPWORK\Eli Mapstead\OCRReadClient\OCRReadClient.dproj</Transaction>
+    <Transaction>2021/04/29 11:57:06.000.925,G:\Working\UPWORK\Eli Mapstead\ImageAnalysisClient\OCRReadClient.dproj=G:\Working\UPWORK\Eli Mapstead\ImageAnalysisClient\ImageAnalysisClient.dproj</Transaction>
+    <Transaction>2021/08/14 20:38:04.000.277,G:\Working\DELPHI\Eli_Mapstead\SearchByImage\SearchByImage.dproj=G:\Working\DELPHI\Eli_Mapstead\SearchByImage\ImageAnalysisClient.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
